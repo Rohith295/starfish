@@ -71,7 +71,7 @@ osmFISH (@osmFISH),
 BaristaSeq (@BaristaSeq),
 smFISH,
 DARTFISH,
-starmap (@starmap),
+STARmap (@starmap),
 and seqFISH (@seqFISH).
 
 *starfish* is currently in use by multiple research groups, including the Allen Institute for Brain Science, the Chan Zuckerberg Biohub, and the Zhang Lab at UC San Diego. These groups support multiple large-scale projects profiling *in situ* gene expression, including the SpaceTx consortium, the Human Cell Atlas, the BRAIN Initiative Cell Census Network, and HubMap.
