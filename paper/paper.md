@@ -70,7 +70,7 @@ In Situ Sequencing (@ISS),
 osmFISH (@osmFISH),
 BaristaSeq (@BaristaSeq),
 smFISH,
-DartFISH,
+DARTFISH,
 starmap (@starmap),
 and seqFISH (@seqFISH).
 
