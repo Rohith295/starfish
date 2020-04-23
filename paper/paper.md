@@ -50,6 +50,7 @@ affiliations:
  - name: Chan Zuckerberg Biohub
    index: 3
 date: 24 April 2020
+bibliography: paper.bib
 ---
 
 # Summary
