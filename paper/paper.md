@@ -97,7 +97,7 @@ Jeff Moffitt and Xiaowei Zhuang for their help with the MERFISH pipeline and exa
 Marco Mignardi and Mats Nilsson for their help with the In Situ Sequencing pipeline and example data,
 Simone Codeluppi and Sten Linnarsson for their help with the osmFISH pipeline and example data,
 Xioayin Chen and Anthony Zador for their help with the BaristaSeq pipeline and example data,
-Richard Que and Kun Zhang for their help with the dartfish pipeline and example data,
+Richard Que and Kun Zhang for their help with the DARTFISH pipeline and example data,
 Xiao Wang, William Allen, and Karl Deisseroth for their help with the starmap pipeline and example data,
 Dan Goodwin and Ed Boyden for their help with the ExFISH pipeline and example data,
 Nico Pierson, Sheel Shah, and Long Cai for their help with the seqFISH pipeline and example data,
