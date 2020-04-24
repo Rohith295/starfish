@@ -39,7 +39,7 @@ authors:
     affiliation: 2
   - name: Tony Tung
     affiliation: 1
-  - name: Kevin Yamauchi
+  - name: Kevin A. Yamauchi
     orcid: 0000-0002-7818-1388
     affiliation: 3
 affiliations:
